@@ -7,7 +7,7 @@ LearnMate then creates **dynamic, personalized roadmaps** that adapt over time, 
 
 ---
 
-## 🚀 What LearnMate Does
+## 🎯 What LearnMate Does
 - 🗺 Creates **personalized learning roadmaps** for students.  
 - 🎯 Handles **only education-related questions** and redirects irrelevant ones politely.  
 - 📚 Suggests **trusted tutorials and resources** (e.g., freeCodeCamp, Traversy Media).  
