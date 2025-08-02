@@ -7,12 +7,21 @@ LearnMate then creates **dynamic, personalized roadmaps** that adapt over time, 
 
 ---
 
-## 🚀 Features
-- ✅ **Dynamic Learning Roadmaps** – Plans adjust based on student’s progress and changing goals.  
-- ✅ **Focused Guidance** – Only answers educational queries and politely redirects unrelated questions.  
-- ✅ **Trusted Resource Suggestions** – Recommends YouTube tutorials (e.g., freeCodeCamp, Traversy Media).  
-- ✅ **Built Without Coding** – Created in IBM **Agent Lab** using Granite models.  
-- ✅ **Beginner to Advanced Support** – Works for all levels, from complete beginners to advanced learners.
+## 🚀 What LearnMate Does
+- 🗺 Creates **personalized learning roadmaps** for students.  
+- 🎯 Handles **only education-related questions** and redirects irrelevant ones politely.  
+- 📚 Suggests **trusted tutorials and resources** (e.g., freeCodeCamp, Traversy Media).  
+- 🤖 Runs entirely on **IBM watsonx.ai Granite models** for natural conversations.  
+- 👩‍🏫 Works for **all skill levels** – from beginners to advanced learners.
+
+---
+
+## 🌟 Key Highlights
+- 💡 **Adaptive plans** – updates roadmaps as students progress or change interests.  
+- ⚡ **No-code build** – fully created using IBM Agent Lab, no programming required.  
+- 🎯 **Focused guidance** – keeps students on-topic and goal-oriented.  
+- 📚 **Trusted sources only** – recommends verified, high-quality tutorials.  
+- 🤝 **Mentor-like tone** – responds in a friendly, motivating way.
 
 ---
 
@@ -40,7 +49,7 @@ LearnMate then creates **dynamic, personalized roadmaps** that adapt over time, 
 
 ---
 
-## 🔮 Future Scope
+## 🚀 What’s Next for LearnMate AI
 - 🌍 **Multi-language support** to help global learners.  
 - 🎙 **Voice-enabled conversations** for a natural learning experience.  
 - 📂 **Integration with e-learning platforms** like Coursera, Udemy, and IBM SkillsBuild.  
@@ -48,7 +57,5 @@ LearnMate then creates **dynamic, personalized roadmaps** that adapt over time, 
 
 ---
 
-## 👩‍💻 Author
-**Your Name**  
 
 
