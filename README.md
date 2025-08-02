@@ -55,7 +55,5 @@ LearnMate then creates **dynamic, personalized roadmaps** that adapt over time, 
 - 📂 **Integration with e-learning platforms** like Coursera, Udemy, and IBM SkillsBuild.  
 - 📊 **Progress tracking** to auto-adjust learning paths.
 
----
-
 
 
